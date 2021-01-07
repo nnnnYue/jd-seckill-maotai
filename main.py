@@ -18,7 +18,6 @@ if __name__ == '__main__':
  1.预约商品
  2.秒杀抢购商品
     """
-    print(a)
 
     jd_seckill = JdSeckill()
     choice_function = input('请选择:')
